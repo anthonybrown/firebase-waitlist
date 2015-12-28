@@ -16,7 +16,7 @@ certain browsers, see note below).
 Clone the angular-seed repository and start hacking...
 also, you will need to create accounts with Firebase, Twillio, Zapier to create the application
 
-** instructions for original angular-seed repo **
+**instructions for original angular-seed repo**
 ### Running the app during development
 
 You can pick one of these options:
