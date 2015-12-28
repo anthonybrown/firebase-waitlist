@@ -1,0 +1,23 @@
+/* app css stylesheet */
+body {
+  padding-top: 5.571em;
+}
+.template {
+  padding: 2.857em 1.071em;
+  text-align: center;
+}
+
+.template h1 {
+	font-size: 4.5em;/* 63px */
+}
+
+.party-form {
+	margin: 1em 0 2em;
+}
+	.party-form input {
+		margin: 0 2em 0 0;
+	}
+
+	.table button {
+		margin-right: 2em;
+	}
