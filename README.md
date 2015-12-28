@@ -1,4 +1,5 @@
-# angular-seed — the seed for AngularJS apps
+# Firebase-Waitlist built from angular-seed — the seed for AngularJS apps
+## The angular-seed project that this is built from is outdated and will be replaced with the latest version of Angular.js and corresponding scripts
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
@@ -12,18 +13,10 @@ The seed app doesn't do much, just shows how to wire two controllers and views t
 check it out by opening app/index.html in your browser (might not work file `file://` scheme in
 certain browsers, see note below).
 
-_Note: While angular is client-side-only technology and it's possible to create angular webapps that
-don't require a backend server at all, we recommend hosting the project files using a local
-webserver during development to avoid issues with security restrictions (sandbox) in browsers. The
-sandbox implementation varies between browsers, but quite often prevents things like cookies, xhr,
-etc to function properly when an html page is opened via `file://` scheme instead of `http://`._
-
-
-## How to use angular-seed
-
 Clone the angular-seed repository and start hacking...
+also, you will need to create accounts with Firebase, Twillio, Zapier to create the application
 
-
+** instructions for original angular-seed repo **
 ### Running the app during development
 
 You can pick one of these options:
@@ -88,7 +81,7 @@ CloudBees have provided a CI/deployment setup:
 
 <a href="https://grandcentral.cloudbees.com/?CB_clickstart=https://raw.github.com/CloudBees-community/angular-js-clickstart/master/clickstart.json"><img src="https://d3ko533tu1ozfq.cloudfront.net/clickstart/deployInstantly.png"/></a>
 
-If you run this, you will get a cloned version of this repo to start working on in a private git repo, 
+If you run this, you will get a cloned version of this repo to start working on in a private git repo,
 along with a CI service (in Jenkins) hosted that will run unit and end to end tests in both Firefox and Chrome.
 
 ### Receiving updates from upstream
@@ -149,4 +142,3 @@ fetch the changes and merge them into your project with git.
 ## Contact
 
 For more information on AngularJS please check out http://angularjs.org/
-# Firebase-Waitlist 
